@@ -110,4 +110,5 @@ The different technologies used for the project are as follows:
 #### Hosting of the application:
 
 The back-end will be hosted on the HEROKU platform
+
 The front-end will be hosted on the Netlify platform

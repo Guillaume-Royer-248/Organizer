@@ -77,3 +77,37 @@ Within the window of time we had, we decided to implement the features below:
 
 -   a notification system informing users of the validation or failure of their actions (login, database actions, ...)
 -   A 404 page is used to inform a user that the requested page does not exist
+
+## The technologies used
+
+The different technologies used for the project are as follows:
+
+#### Front End Technologies:
+
+-   react
+-   Redux (Redux-Toolkit)
+-   jsonwebtoken
+-   Material UI
+-   Sass & CSS
+-   HTML
+-   Enzyme
+
+#### Backend technologies:
+
+-   Server: NodeJS
+-   NodeJS dependencies:
+    -   PG
+    -   express
+    -   dotenv
+    -   corns
+    -   bcrypt
+    -   jsonwebtoken
+    -   swagger
+    -   Bunyan
+    -   Database: Postgres
+    -   Sqitch
+
+#### Hosting of the application:
+
+The back-end will be hosted on the HEROKU platform
+The front-end will be hosted on the Netlify platform
